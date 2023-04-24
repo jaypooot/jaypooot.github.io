@@ -13,7 +13,7 @@
 </head>
 <body>
 
-<h1 id="myHeader">My Header</h1>
+<h1 id="myHeader">Hino Motors Philippines</h1>
 
 </body>
 </html>
