@@ -12,8 +12,9 @@
 </style>
 </head>
 <body>
-  <h1 id="myHeader">JAY CAMPOS</h1>
-  <p>Welcome to my website!</p>
+
+<h1 id="myHeader">My Header</h1>
+
 </body>
 </html>
   
